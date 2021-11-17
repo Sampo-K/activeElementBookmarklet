@@ -6,3 +6,6 @@ Add the code in the bookmarklet.js as a new bookmark to your browser's bookmark 
 
 # Running
 Go to a desired page, navigate in the page using keyboard navigation methods. When you encounter strange behavior or lose the keyboard focus, click the bookmarklet and the active element will be logged in the developer console. The active element also gets a bright red outline for couple of seconds if the the element is visible.
+
+# Thanks
+Special thanks to George Treviranus for the excellent active element code in Stack Overflow :)
