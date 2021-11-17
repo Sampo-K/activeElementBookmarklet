@@ -1,5 +1,8 @@
 # What this is?
 Simple bookmarklet that helps finding the currently focused item. Useful for accessibility testing.
+1. Scrolls the element in the view
+2. Adds 2px thick solid outline around the element
+3. Logs the element in the developer console for easy identification
 
 # Installation
 Add the code in the bookmarklet.js as a new bookmark to your browser's bookmark toolbar or preferred folder (use the code as the URL).
